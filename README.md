@@ -21,13 +21,13 @@
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhtiaj-arif&show_icons=true&locale=en&layout=compact" alt="ikhtiaj-arif" /></p>
 <br/>
 <br/><br/>
-<br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/>
+
+
 
 <h3 align="left">Career Stats:</h3>
 
 <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ikhtiaj-arif&" alt="ikhtiaj-arif" /></p>
-
+<br/><br/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ikhtiaj-arif&show_icons=true&locale=en" alt="ikhtiaj-arif" /></p>
 
 
