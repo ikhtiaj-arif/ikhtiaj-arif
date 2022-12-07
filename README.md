@@ -19,10 +19,10 @@
 <hr/>
 <h3 align="left">Languages Used:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhtiaj-arif&show_icons=true&locale=en&layout=compact" alt="ikhtiaj-arif" /></p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikhtiaj-arif&show_icons=true&locale=en" alt="ikhtiaj-arif" /></p>
-<br/>
-<h3 align="left">Languages Used:</h3>
+<hr/>
+
+<h3 align="left">Career Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikhtiaj-arif&" alt="ikhtiaj-arif" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikhtiaj-arif&show_icons=true&locale=en" alt="ikhtiaj-arif" /></p>
 
 
