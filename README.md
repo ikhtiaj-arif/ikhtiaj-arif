@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm MD. Ikhtiaj Arif</h1>
-<h3 align="center">In the past 2.5 years, I have dedicated myself to learning to code, and over the last 2 months, I have built 5 full stack projects using the MERN stack. Due to the number of quality resources available in the community, at first, it was very overwhelming. But I completed a few courses (ProgrammingHERO july22-dec22), (and FreeCodeCamp: JS Algo & DSA) to guide me to become efficient and good with coding. Being an active learner and having the ability to overcome challenges has helped me to grow & learn new things in life. In this journey, I learned to build from basic websites to Full-Stack websites using the latest techs. In the next few decades, the world would need more quality developers to keep up with the rising demands. I look forward to growing myself as a skilled developer, & starting a new journey with a tech company & work on real-world projects. I want to make an impact on the tech community which I am truly grateful to. When I don't work, I usually play Cricket/multiplayer games.</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">In the past 2.5 years, I have dedicated myself to learning to code, and over the last 2 months, I have built 5 full stack projects using the MERN stack. Due to the number of quality resources available in the community, at first, it was very overwhelming. But I completed a few courses (ProgrammingHERO july22-dec22), (and FreeCodeCamp: JS Algo & DSA) to guide me to become efficient and good with coding. Being an active learner and having the ability to overcome challenges has helped me to grow & learn new things in life. In this journey, I learned to build from basic websites to Full-Stack websites using the latest techs. 
+  <br/>
+  In the next few decades, the world would need more quality developers to keep up with the rising demands. I look forward to growing myself as a skilled developer, & starting a new journey with a tech company & work on real-world projects. I want to make an impact on the tech community which I am truly grateful to.
+  <br/>
+  When I don't work, I usually play Cricket/multiplayer games.</h3>
+<hr/>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/ikhtiaj-arif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikhtiaj-arif" height="30" width="40" /></a>
 <a href="https://fb.com/ikhtiajarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ikhtiajarif" height="30" width="40" /></a>
 <a href="https://instagram.com/ikhtiaj_arif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikhtiaj_arif" height="30" width="40" /></a>
