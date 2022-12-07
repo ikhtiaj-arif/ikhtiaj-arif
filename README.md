@@ -18,7 +18,7 @@
 
 <hr/>
 <h3 align="left">Languages Used:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhtiaj-arif&show_icons=true&locale=en&layout=compact" alt="ikhtiaj-arif" /></p>
+<p display="block"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhtiaj-arif&show_icons=true&locale=en&layout=compact" alt="ikhtiaj-arif" /></p>
 <hr/>
 
 <h3 align="left">Career Stats:</h3>
