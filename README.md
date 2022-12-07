@@ -18,8 +18,8 @@
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhtiaj-arif&show_icons=true&locale=en&layout=compact" alt="ikhtiaj-arif" /></p>
-<hr/>
+<p background-color: "red"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhtiaj-arif&show_icons=true&locale=en&layout=compact" alt="ikhtiaj-arif" /></p>
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikhtiaj-arif&show_icons=true&locale=en" alt="ikhtiaj-arif" /></p>
-<hr/>
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikhtiaj-arif&" alt="ikhtiaj-arif" /></p>
