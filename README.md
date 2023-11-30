@@ -4,7 +4,7 @@
     <p>🚀 As a Front-End Developer with 10 months of professional experience, I specialize in crafting immersive and user-friendly web experiences. My journey in the world of web development revolves around the MERN stack, where I bring ideas to life with a blend of creativity and technical precision.</p>
 <h3 align="left">🛠️ Tech Stack:
   <br/><br/><br/>
-<p>
+<div>
   Front-End: HTML, CSS, JavaScript, React.js
 <br/>
 Back-End: Node.js, Express.js
@@ -12,7 +12,7 @@ Back-End: Node.js, Express.js
 Database: MongoDB
 <br/>
 Version Control: Git
-</p>
+</div>
 
   <br/><br/><br/>
   When I don't work, I usually play Cricket/multiplayer games.</h3>
