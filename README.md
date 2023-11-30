@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm MD. Ikhtiaj Arif</h1>
-<h3 align="center">In the past 2.5 years, I have dedicated myself to learning to code, and over the last 2 months, I have built 5 full stack projects using the MERN stack. Due to the number of quality resources available in the community, at first, it was very overwhelming. But I completed a few courses (ProgrammingHERO july22-dec22), (and FreeCodeCamp: JS Algo & DSA) to guide me to become efficient and good with coding. Being an active learner and having the ability to overcome challenges has helped me to grow & learn new things in life. In this journey, I learned to build from basic websites to Full-Stack websites using the latest techs. 
+<h1 align="center">👋 Hi, I'm Ikhtiaj Arif!</h1>
+<h3 align="center">🚀 As a Front-End Developer with 10 months of professional experience, I specialize in crafting immersive and user-friendly web experiences. My journey in the world of web development revolves around the MERN stack, where I bring ideas to life with a blend of creativity and technical precision.
   <br/><br/><br/>
-  In the next few decades, the world would need more quality developers to keep up with the rising demands. I look forward to growing myself as a skilled developer, & starting a new journey with a tech company & work on real-world projects. I want to make an impact on the tech community which I am truly grateful to.
+🛠️ Tech Stack:
+Front-End: HTML, CSS, JavaScript, React.js
+Back-End: Node.js, Express.js
+Database: MongoDB
+Version Control: Git
   <br/><br/><br/>
   When I don't work, I usually play Cricket/multiplayer games.</h3>
 <hr/>
