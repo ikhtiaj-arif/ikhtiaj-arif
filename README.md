@@ -2,9 +2,9 @@
 
   <h1>👋 Hi, I'm Ikhtiaj Arif!</h1>
     <p>🚀 As a Front-End Developer with 10 months of professional experience, I specialize in crafting immersive and user-friendly web experiences. My journey in the world of web development revolves around the MERN stack, where I bring ideas to life with a blend of creativity and technical precision.</p>
-<h3 align="center">🚀 As a Front-End Developer with 10 months of professional experience, I specialize in crafting immersive and user-friendly web experiences. My journey in the world of web development revolves around the MERN stack, where I bring ideas to life with a blend of creativity and technical precision.
+<h3 align="center">🛠️ Tech Stack:
   <br/><br/><br/>
-🛠️ Tech Stack:
+
 Front-End: HTML, CSS, JavaScript, React.js
 Back-End: Node.js, Express.js
 Database: MongoDB
