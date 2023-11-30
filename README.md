@@ -2,8 +2,7 @@
 
   <h1>👋 Hi, I'm Ikhtiaj Arif!</h1>
     <p>🚀 As a Front-End Developer with 10 months of professional experience, I specialize in crafting immersive and user-friendly web experiences. My journey in the world of web development revolves around the MERN stack, where I bring ideas to life with a blend of creativity and technical precision.</p>
-<h3 align="left">🛠️ Tech Stack:
-  <br/><br/><br/>
+<h3 align="left">🛠️ Tech Stack:</h3>
 <div>
   Front-End: HTML, CSS, JavaScript, React.js
 <br/>
@@ -16,7 +15,7 @@ Version Control: Git
 
   <br/><br/><br/>
   When I don't work, I usually play Cricket/multiplayer games.</h3>
-<hr/>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ikhtiaj-arif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikhtiaj-arif" height="30" width="40" /></a>
