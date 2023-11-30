@@ -17,22 +17,27 @@
         <p style="color: #586069;"><strong>Data Structures and Algorithms Enthusiast:</strong><br>
             With a keen interest in problem-solving, I incorporate strong data structures and algorithms knowledge into my development process. This mindset enhances the efficiency and performance of the applications I build.</p>
     </div>
+    <div style="max-width: 800px; margin: 0 auto;">
+        <h1 style="color: #0366d6;">👋 Hi, I'm Ikhtiaj Arif!</h1>
+        <p style="color: #586069;">🚀 As a Front-End Developer with 10 months of professional experience, I specialize in crafting immersive and user-friendly web experiences. My journey in the world of web development revolves around the MERN stack, where I bring ideas to life with a blend of creativity and technical precision.</p>
+        <p style="color: #586069;"><strong>Tech Stack:</strong></p>        
+        <ul style="list-style-type: none; padding: 0;">
+            <li style="margin-bottom: 8px;">Front-End: HTML, CSS, JavaScript, React.js</li>
+            <li style="margin-bottom: 8px;">Back-End: Node.js, Express.js</li>
+            <li style="margin-bottom: 8px;">Database: MongoDB</li>
+            <li style="margin-bottom: 8px;">Version Control: Git</li>
+        </ul>
+        <p style="color: #586069;"><strong>Key Strengths:</strong></p>        
+        <ul style="list-style-type: none; padding: 0;">
+            <li style="margin-bottom: 8px;"><strong>MERN Mastery:</strong> Proficient in the MERN stack, I create seamless and interactive applications that captivate users and meet business objectives.</li>
+            <li style="margin-bottom: 8px;"><strong>Web Fundamentals:</strong> A solid grasp of core web development concepts ensures that my code is not just functional but also scalable, maintainable, and adheres to industry best practices.</li>
+        </ul>
+        <p style="color: #586069;"><strong>Data Structures and Algorithms Enthusiast:</strong><br>
+            With a keen interest in problem-solving, I incorporate strong data structures and algorithms knowledge into my development process. This mindset enhances the efficiency and performance of the applications I build.</p>
+        <p style="color: #0366d6;">🚀 Excited about creating impactful digital experiences! Check out my repositories, and let's collaborate on the next big thing in web development.</p>
+        <p style="color: #0366d6;">Happy Coding! 🚀✨</p>
+    </div>
 
-  <h1>👋 Hi, I'm Ikhtiaj Arif!</h1>
-    <p>🚀 As a Front-End Developer with 10 months of professional experience, I specialize in crafting immersive and user-friendly web experiences. My journey in the world of web development revolves around the MERN stack, where I bring ideas to life with a blend of creativity and technical precision.</p>
-<h3 align="left">🛠️ Tech Stack:</h3>
-<div >
-  <h3> Front-End:</h3> HTML, CSS, JavaScript, React.js
-<br/>
-  <h3>Back-End:</h3> Node.js, Express.js
-<br/>
-  <h3>Database:</h3> MongoDB
-<br/>
-  <h3>Version Control:</h3> Git
-</div>
-
-  <br/><br/><br/>
-  When I don't work, I usually play Cricket/multiplayer games.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
