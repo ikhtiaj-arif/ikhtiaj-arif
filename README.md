@@ -1,6 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/ikhtiaj-arif/ikhtiaj-arif/blob/main/Blue%20Animated%20Developer%20Conference%20Video%20(4).gif" alt="Ikhtiaj Arif - Front-End Developer" />
+ <img 
+    src="https://github.com/ikhtiaj-arif/ikhtiaj-arif/blob/main/Blue%20Animated%20Developer%20Conference%20Video%20(4).gif?raw=true" 
+    alt="Animated Developer Banner" 
+    style="width: 100%; max-width: 1000px;" 
+  />
 </p>
 
 <h1 align="center">👋 Hi, I'm Ikhtiaj Arif!</h1>
